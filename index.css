@@ -1,0 +1,34 @@
+.container{
+    font-size: 15px;
+    font-weight: 400 700;
+}
+.outercontainer{
+    background-color: hsl(212, 45%, 89%);
+    width: 100%;
+    height: 600px;
+    padding-top: 100px;
+}
+.bluecontainer{
+    background-color: hsl(218, 44%, 22%);
+    width: 80%;
+    height: 350px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px 10px hsla(215, 10%, 43%, 0.258);
+    padding-top: 50px
+}
+.maincontainer{
+    background-color: rgb(247, 252, 255);
+    width: 200px;
+    height: 320px;
+    border-radius: 15px;
+    
+}
+.maincontainer > img{
+    width: 185px;
+    height: 150px;
+    padding-top: 10px;
+}
+.maincontainer > p{
+    text-align: justify;
+    padding: 5px;
+}
